@@ -1,0 +1,9 @@
+pulbic class Attempts{
+
+public static void main (String asrgs[]){
+
+public void setAtempts(){
+return"";
+}
+}
+}
